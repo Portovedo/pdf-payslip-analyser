@@ -1,0 +1,1 @@
+    data['Período'] = convert_period_format(period)
